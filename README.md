@@ -56,15 +56,11 @@ Currently focused on:
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudharsan-ak&show_icons=true&hide_border=true" alt="Sudharsan's GitHub stats" />
-</p>
+I actively build and maintain projects around full-stack development, automation, Chrome extensions, recruiter discovery, and AI-assisted developer workflows.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsan-ak&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+Check out my pinned repositories below for the strongest examples of my work.
 
 ---
 
