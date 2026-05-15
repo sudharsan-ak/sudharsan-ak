@@ -52,7 +52,6 @@ Currently focused on:
 - Chrome extensions for LinkedIn workflow improvement
 - Full-stack portfolio and project systems
 - Backend systems, automation workflows, and practical AI-assisted developer tools
-- Practical AI-assisted developer tools
 
 ---
 
