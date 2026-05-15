@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Full Stack Software Engineer with 5+ years of experience building scalable web applications, backend APIs, data-heavy workflows, and internal platform features.
+I'm a Full Stack Software Engineer with 6+ years of experience building scalable web applications, backend APIs, data-heavy workflows, and internal platform features.
 
 My strongest stack is **JavaScript/TypeScript, React, Node.js, MongoDB, PostgreSQL, Meteor.js, AWS Lambda, Docker, and CI/CD tooling**.
 
