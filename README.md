@@ -34,6 +34,16 @@ I enjoy building tools that solve real workflow problems - especially around aut
 
 ---
 
+## Active Practice & Contributions
+
+I also actively contribute to a shared coding-practice repository focused on interview preparation, problem solving, and system design practice.
+
+| Repository | Focus |
+|---|---|
+| [Practice](https://github.com/vasanthgeethanraju/Practice) | Coding interview problems, LeetCode-style practice, class problems, real-world problem solving, and system design notes |
+
+---
+
 ## Tech Stack
 
 **Frontend:** React, TypeScript, JavaScript, HTML, CSS  
