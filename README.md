@@ -40,7 +40,7 @@ I also actively contribute to a shared coding-practice repository focused on int
 
 | Repository | Focus |
 |---|---|
-| [Practice](https://github.com/vasanthgeethanraju/Practice) | Coding interview problems, LeetCode-style practice, class problems, real-world problem solving, and system design notes |
+| [Practice](https://github.com/vasanthgeethanraju/Practice) | Interview prep, LeetCode-style problems, class problems, real-world problem solving, and system design notes |
 
 ---
 
