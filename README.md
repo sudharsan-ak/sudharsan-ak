@@ -36,11 +36,13 @@ I enjoy building tools that solve real workflow problems - especially around aut
 
 ## Active Practice & Contributions
 
-I also actively contribute to a shared coding-practice repository focused on interview preparation, problem solving, and system design practice.
+I use this section to track active learning, interview preparation, and ongoing technical practice outside my main projects.
 
-| Repository | Focus |
-|---|---|
-| [Practice](https://github.com/vasanthgeethanraju/Practice) | Interview prep, LeetCode-style problems, class problems, real-world problem solving, and system design notes |
+| Repository | Type | Focus |
+|---|---|---|
+| [Practice](https://github.com/vasanthgeethanraju/Practice) | Shared contribution | Coding interview problems, LeetCode-style practice, class problems, real-world problem solving, and system design notes |
+| [Python](https://github.com/sudharsan-ak/Python) | Personal learning repo | Python fundamentals, weekly notes, exercises, mistakes log, and structured learning practice |
+| [React + TypeScript](https://github.com/sudharsan-ak/react-typescript) | Personal learning repo | React, TypeScript, Vite, hooks, component practice, and portfolio-connected exercises |
 
 ---
 
