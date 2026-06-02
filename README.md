@@ -42,7 +42,7 @@ I use this section to track active learning, interview preparation, and ongoing 
 |---|---|---|
 | [Practice](https://github.com/vasanthgeethanraju/Practice) | Shared contribution | Coding interview problems, LeetCode-style practice, class problems, real-world problem solving, and system design notes |
 | [Python](https://github.com/sudharsan-ak/Python) | Personal learning repo | Python fundamentals, weekly notes, exercises, mistakes log, and structured learning practice |
-| [React + TypeScript](https://github.com/sudharsan-ak/react-typescript) | Personal learning repo | React, TypeScript, Vite, hooks, component practice, and portfolio-connected exercises |
+| [React + TypeScript](https://github.com/sudharsan-ak/React-Typescript) | Personal learning repo | React, TypeScript, Vite, hooks, component practice, and portfolio-connected exercises |
 
 ---
 
