@@ -32,7 +32,6 @@ I enjoy building tools that solve real workflow problems - especially around aut
 | [LinkedReach AI](https://github.com/sudharsan-ak/linkedin-reach-ai) | AI-assisted recruiter email discovery tool that generates likely email candidates by combining profile context, domain patterns, search results, and confidence scoring. | JavaScript, AI, Chrome Extension, Manifest V3 |
 | [Personal Portfolio](https://github.com/sudharsan-ak/personal-portfolio) | Personal portfolio website with project showcase, AI assistant, contact form API, and production-style frontend/backend structure. | TypeScript, React, Node.js, AWS Lambda, Supabase |
 | [Job Autopilot](https://github.com/sudharsan-ak/job-autopilot) | Human-in-the-loop job application automation system for collecting roles, preparing application data, and supporting recruiter outreach workflows. | TypeScript, Node.js, Automation |
-| [Multi-Label Image Annotation](https://github.com/sudharsan-ak/Multi-Label-Image-Annotation) | Image annotation project focused on labeling images with multiple categories for ML/data workflows. | Python / ML / Annotation |
 
 ---
 
